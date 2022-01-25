@@ -5,11 +5,11 @@
 <!-- Social links -->
 
 <div align="right">
-  <a href="https://twitter.com/abdellahmaarifa" ><img width="25px" src="https://i.ibb.co/bXgcW23/twitter.png" alt="twitter" border="0"></a>
+  <a href="https://twitter.com/abdellahmaarifa" target="_blank"><img width="25px" src="https://i.ibb.co/bXgcW23/twitter.png" alt="twitter" border="0"></a>
    &nbsp; &nbsp; 
-  <a href="https://www.linkedin.com/in/abdellah-maarifa/" ><img width="25px" src="https://i.ibb.co/HGwdyc0/linkedin.png" alt="linkedin" border="0"></a>
+  <a href="https://www.linkedin.com/in/abdellah-maarifa/"  target="_blank"><img width="25px" src="https://i.ibb.co/HGwdyc0/linkedin.png" alt="linkedin" border="0"></a>
    &nbsp; &nbsp;
-  <a href="https://stackoverflow.com/users/13422709/abdellah-maarifa" ><img width="25px" src="https://i.ibb.co/jJ0BhDz/stack-overflow.png" alt="stack-overflow" border="0"></a>
+  <a href="https://stackoverflow.com/users/13422709/abdellah-maarifa"  target="_blank" ><img width="25px" src="https://i.ibb.co/jJ0BhDz/stack-overflow.png" alt="stack-overflow" border="0"></a>
 </div>
 
 <!-- Info -->
