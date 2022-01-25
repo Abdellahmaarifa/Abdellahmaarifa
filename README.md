@@ -1,5 +1,6 @@
-### Hi there 👋
 [![Header](https://github.com/Abdellahmaarifa/Abdellahmaarifa/blob/main/github_header.png "Header")](https://abdellahmaarifa.github.io/portfolio/)
+
+# Hello, folks! <img src="https://github.com/Abdellahmaarifa/Abdellahmaarifa/blob/main/wave.gif" width="30px">
 
 <!--
 **Abdellahmaarifa/Abdellahmaarifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
