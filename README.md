@@ -1,6 +1,5 @@
 <!-- Header -->
 
-[![Header](https://github.com/Abdellahmaarifa/Abdellahmaarifa/blob/main/github_header.png "Header")](https://abdellahmaarifa.github.io/portfolio/)
 
 <!-- Social links -->
 
