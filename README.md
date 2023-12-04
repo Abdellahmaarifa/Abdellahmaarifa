@@ -1,6 +1,5 @@
 <!-- Header -->
 
-
 <!-- Social links -->
 
 <div align="right">
@@ -14,12 +13,14 @@
 <!-- Info -->
 
 # Hello, folks! <img src="https://github.com/Abdellahmaarifa/Abdellahmaarifa/blob/main/wave.gif" width="30px">
+
 My name is [Abdellah maarifa](https://abdellahmaarifa.github.io/portfolio/)
 , I build things for the web, currently i'm a student at [1337](https://1337.ma/) school and in the next few years a software engineer.
 
 <!-- Tools -->
 
 ## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=64FFDA)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=64FFDA)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=64FFDA)
@@ -38,7 +39,6 @@ My name is [Abdellah maarifa](https://abdellahmaarifa.github.io/portfolio/)
 <a href="https://github.com/Abdellahmaarifa/Abdellahmaarifa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdellahmaarifa&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 
-  
 <a href="https://github.com/Abdellahmaarifa/Abdellahmaarifa">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdellahmaarifa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
@@ -46,8 +46,11 @@ My name is [Abdellah maarifa](https://abdellahmaarifa.github.io/portfolio/)
 <!-- Projects -->
 
 ## 💻 Some Things I’ve Built
- 
+
 <a href="https://github.com/Abdellahmaarifa/tinda-clothing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellahmaarifa&repo=tinda-clothing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
+</a>
 
+<div style="width: 100%;">
+  <img src="https://github.com/Abdellahmaarifa/Abdellahmaarifa/blob/main/README.svg" style="width: 100%;" alt="Click to see the source">
+</div>
