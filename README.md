@@ -26,7 +26,7 @@ const profile: Developer = {
   name: 'Abdellah',
   role: 'Software Developer',
   expertise: ['TypeScript', 'JavaScript', 'React'],
-  aboutMe: 'Passionate software developer with expertise in building modern web applications using TypeScript and react.',
+  aboutMe: 'I develop efficient web solutions for a seamless user experience',
 };
 
 console.log(`Name: ${profile.name}`);
@@ -39,10 +39,10 @@ profile.expertise.forEach((skill) => console.log(` - ${skill}`));
 
 ```
 
-## Some Things I’ve Built
+## sty Some Things I’ve Built
 
 <div style="display:flex; gap:10px;">
 <a href="https://github.com/Abdellahmaarifa/overPing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellahmaarifa&repo=Libft&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0C1A24&border_color=17A2B8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellahmaarifa&repo=overPing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0C1A24&border_color=17A2B8" />
 </a>
 </div>
