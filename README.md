@@ -39,7 +39,7 @@ profile.expertise.forEach((skill) => console.log(` - ${skill}`));
 
 ```
 
-## sty Some Things I’ve Built
+## Some Things I’ve Built
 
 <div style="display:flex; gap:10px;">
 <a href="https://github.com/Abdellahmaarifa/overPing">
